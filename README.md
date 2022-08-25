@@ -2,6 +2,7 @@
 React and DRF
 
 
+![Screenshot from 2022-08-25 15-32-39](https://user-images.githubusercontent.com/93438628/186636591-c002800d-49a2-4b22-9b2f-0c01e55c8bd5.png)
 
 Backend -DRF
 Forntend -React
